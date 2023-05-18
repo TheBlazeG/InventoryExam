@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExamenP2Progra", "ExamenP2Progra.vcxproj", "{932FA5E2-3075-4001-8E1F-26F16B49F247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Debug|x64.ActiveCfg = Debug|x64
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Debug|x64.Build.0 = Debug|x64
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Debug|x86.ActiveCfg = Debug|Win32
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Debug|x86.Build.0 = Debug|Win32
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Release|x64.ActiveCfg = Release|x64
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Release|x64.Build.0 = Release|x64
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Release|x86.ActiveCfg = Release|Win32
+		{932FA5E2-3075-4001-8E1F-26F16B49F247}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BD1091-85CC-4FC5-9572-D019CFB46A55}
+	EndGlobalSection
+EndGlobal
